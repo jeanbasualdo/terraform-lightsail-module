@@ -30,3 +30,4 @@ override.tf.json
 
 config.tf
 terraform.tfvars
+.terraform.lock.hcl
